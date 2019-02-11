@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for chat-gql",
+  "main": "index.js",
+  "author": "David Rothschild",
+  "license": "MIT"
+}
